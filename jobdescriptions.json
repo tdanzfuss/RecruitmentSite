@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "name": "Application Developer",
+        "summary":"Can you build Awesome Software?",
+        "brief": "We are looking for an **Awesome** Application Developer to join the MDL team in the quest to Fix the Enterprise! Application Developers is someone bla bla bla A great Application Developer has excellent knowledge of at least one programming language. They must be familiar with a variety of operating systems and platforms. The ideal candidate will also have an analytical mindset and a keen eye for detail.The goal is to write “clean” and flawless code to produce fully functional software applications according to requirements.",
+        "requirements": ["Proven experience as application developer"
+          ,"Experience in designing and building applications"
+          ,"Bsc. Computer Science or Equivalent degree"],
+        "responsibilities":["Understand client requirements and how they translate in application features",
+          "Collaborate with a team of IT professionals to set specifications for new applications",
+          "Design creative prototypes according to specifications",
+          "Perform unit and integration testing before launch"]
+    },
+    {
+        "id": 2,
+        "name": "Systems Architect",
+        "summary":"Do you speak SAP?",
+        "brief": "We are looking for an **Awesome** Application Developer to join the MDL team in the quest to Fix the Enterprise! Application Developers is someone bla bla bla ",
+        "requirements": ["Proven experience as application developer"
+          ,"Experience in designing and building applications"
+          ,"Bsc. Computer Science or Equivalent degree"],
+        "responsibilities":["Understand client requirements and how they translate in application features",
+          "Collaborate with a team of IT professionals to set specifications for new applications",
+          "Design creative prototypes according to specifications",
+          "Perform unit and integration testing before launch"]
+    },
+    {
+        "id": 3,
+        "name": "Chief Digital Officer",
+        "summary":"Are you more Agile than a Yogi?",
+        "brief": "We are looking for an **Awesome** Application Developer to join the MDL team in the quest to Fix the Enterprise! Application Developers is someone bla bla bla ",
+        "requirements": ["Proven experience as application developer"
+          ,"Experience in designing and building applications"
+          ,"Bsc. Computer Science or Equivalent degree"],
+        "responsibilities":["Understand client requirements and how they translate in application features",
+          "Collaborate with a team of IT professionals to set specifications for new applications",
+          "Design creative prototypes according to specifications",
+          "Perform unit and integration testing before launch"]
+    }
+]
