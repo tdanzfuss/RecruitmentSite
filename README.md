@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Recruitement portal
 
 The purpose of this site is two fold:
@@ -6,3 +7,6 @@ The purpose of this site is two fold:
 
 ## To run
 Just execute node server.js
+=======
+# recruitmentportal
+>>>>>>> bea398d225d6b301deff6ad51d77d0f378f03695
