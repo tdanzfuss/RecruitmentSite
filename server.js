@@ -22,7 +22,7 @@ var mandrill_client = new mandrill.Mandrill('o0yTlazI9J74WIaOJuX7Mg');
 var COMMENTS_FILE = path.join(__dirname, 'comments.json');
 var JOB_FILE = path.join(__dirname, 'jobdescriptions.json');
 
-app.set('port', (process.env.PORT || 3000));
+app.set('port', (process.env.PORT || 80));
 
 app.use('/', express.static(path.join(__dirname, 'public')));
 app.use(bodyParser.json());
